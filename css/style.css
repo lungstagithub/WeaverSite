@@ -1,4 +1,4 @@
-@charset "UTF-8";
+
 /* CSS Document */
 
 * {
@@ -64,7 +64,6 @@ ul {
 }
 
 .article-box {
-	background-color: #333;
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
