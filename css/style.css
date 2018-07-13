@@ -1,3 +1,40 @@
 @charset "UTF-8";
 /* CSS Document */
 
+* {
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	font-family: sans-serif;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.Navbar {
+	background-color: #151515;
+	width: inherit;
+	padding: 20px;
+}
+
+.nav-logo {
+	color: #fff;
+	padding: 0px 0px 0px 2em;
+}
+
+.Navbar ul li a {
+	color: #fff;
+}
+
+.Navbar li {
+	display: inline-block;
+	padding-left: 2em;
+}
+
+ul {
+	float: right;
+	padding-right: 23px;
+}
+
